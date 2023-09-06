@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "name": "Sumit Kumar",
+      "designaion": "JavaScript Developer"
+    },
+    {
+      "id": "3",
+      "name": "Rajat Rathore",
+      "designaion": "Linux "
+    }
+  ]
+}
